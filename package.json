@@ -1,0 +1,24 @@
+{
+  "name": "fun_numbers",
+  "version": "1.0.0",
+  "description": "Denys Tymofieiev Test Task for PortaOne",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdraftt/webfraftt.git"
+  },
+  "keywords": [
+    "node js",
+    "npm"
+  ],
+  "author": "DenysTymofieiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdraftt/webfraftt/issues"
+  },
+  "homepage": "https://github.com/webdraftt/webfraftt#readme"
+}
